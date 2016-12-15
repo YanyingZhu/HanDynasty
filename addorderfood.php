@@ -61,7 +61,7 @@ if (isset($_POST['orderfood_id']))
       <div id="map" class="map"> 
 
 <a href="https://www.google.com/maps/place/Philadelphia+Manuyunk+4356+Main+Street/">
-<img src="http://maps.googleapis.com/maps/api/staticmap?center=Philadelphia+Manuyunk+4356+Main+Street&zoom=16&scale=1&size=500x300&maptype=roadmap&format=jpg&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CPhiladelphia+Manuyunk+4356+Main+Street" alt="Google Map of Philadelphia Manuyunk 4356 Main Street"></a>
+<img width="500" height="300" src="http://maps.googleapis.com/maps/api/staticmap?center=Philadelphia+4356+Main+Street&zoom=18&scale=1&size=500x300&maptype=hybrid&format=jpg&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CPhialdelphia+4356+Main+Street&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CPhiladelphia+4356+Main+Street" alt="Google Map of Philadelphia 4356 Main Street"></a>
    
     </div>
 
