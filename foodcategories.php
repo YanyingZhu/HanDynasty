@@ -23,7 +23,7 @@
         <h2 class="form-signin-heading">Add today special</h2>
         
     
-        <input list="specialfood" name="todayspecial">
+        <input list="specialfood" type="text" value="" required name="todayspecial">
         <datalist id="specialfood">
           <option value="Spicy Volcano Chicken">
            <option value="Dry Pot Pork Intestine">
